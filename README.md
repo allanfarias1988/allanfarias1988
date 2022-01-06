@@ -1,5 +1,3 @@
-<p align="right" style="border-radius:50%"><img height="150" width="150"  src="https://avatars.githubusercontent.com/u/92537001?v=4" ></p>
-
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/www.linkedin.com/in/allanfarias1988"><i>Allan Farias</i></a> and I'm studying Front-End at <a href="https://senaiead.senai.br/sp/login"><i>Senai</i></a> 😃️ <br>
 
 - 👀 I’m interested in <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> <img alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><br>
